@@ -5,6 +5,7 @@ If a cell has less than 2 or more than 3 neighbours, it dies.
 If it has exactly 3 neighbours and isn't alive, it comes alive.
 
 Keybinds:
+
 P: Pause the simulation (the simulation starts paused for the purpose of placing cells)
 
 Left click: if the cell is empty, set it to alive, if it is alive, set it to dead
